@@ -128,6 +128,8 @@ header {
 .navigation .btnLogin-popup:hover {
 	background-color: #fff;
 	color: #162938;
+	border-color:  purple;
+	box-sizing: 3px;
 }
 
 .navigation .btnLogin-popup.logo {
